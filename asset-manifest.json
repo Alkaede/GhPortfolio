@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ghportfolio/static/css/main.5b861685.css",
+    "main.js": "/ghportfolio/static/js/main.21bbb774.js",
+    "index.html": "/ghportfolio/index.html",
+    "main.5b861685.css.map": "/ghportfolio/static/css/main.5b861685.css.map",
+    "main.21bbb774.js.map": "/ghportfolio/static/js/main.21bbb774.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5b861685.css",
+    "static/js/main.21bbb774.js"
+  ]
+}
